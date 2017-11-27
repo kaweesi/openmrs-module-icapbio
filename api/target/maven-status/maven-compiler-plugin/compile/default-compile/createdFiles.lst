@@ -1,0 +1,6 @@
+org/openmrs/module/icapbio/icapbiometrics.class
+org/openmrs/module/icapbio/api/impl/icapbiometricsServiceImpl.class
+org/openmrs/module/icapbio/api/db/hibernate/HibernateicapbiometricsDAO.class
+org/openmrs/module/icapbio/icapbiometricsActivator.class
+org/openmrs/module/icapbio/api/icapbiometricsService.class
+org/openmrs/module/icapbio/api/db/icapbiometricsDAO.class

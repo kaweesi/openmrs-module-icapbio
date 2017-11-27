@@ -1,0 +1,3 @@
+org/openmrs/module/icapbio/web/controller/PatientBiometricsController.class
+org/openmrs/module/icapbio/web/controller/icapbiometricsManageController.class
+org/openmrs/module/icapbio/extension/html/AdminList.class
